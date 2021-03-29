@@ -8,3 +8,6 @@ filmes que indico e entre outros, avaliaçaõ dos filmes e recomendação de fil
 
 ## Prototipos da interface 
 <img src="/prototipo_images/Prototipo-telas-moovie-Page-2.png"><img src="/prototipo_images/Prototipo-telas-moovie-Page-1.png"><img src="/prototipo_images/Prototipo-telas-moovie-Page-3.png">
+
+## Widget tree
+<img src="/prototipo_images/Prototipo-telas-moovie-Page-4.png">
