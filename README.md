@@ -11,3 +11,9 @@ filmes que indico e entre outros, avaliaçaõ dos filmes e recomendação de fil
 
 ## Widget tree
 <img src="/prototipo_images/Prototipo-telas-moovie-Page-4.png">
+
+## App icon
+<img src="/prototipo_images/moovie_app_icon.png">
+
+## Gráfico de navegação de telas
+<img src="/prototipo_images/Prototipo-telas-moovie-Page-5.png">
